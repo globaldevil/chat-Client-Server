@@ -1,0 +1,10 @@
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\bin\Debug\Buoi2_Message.exe.config
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\bin\Debug\Buoi2_Message.exe
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\bin\Debug\Buoi2_Message.pdb
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\obj\Debug\Buoi2_Message.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\obj\Debug\Buoi2_Message.FrmChat.resources
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\obj\Debug\Buoi2_Message.Properties.Resources.resources
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\obj\Debug\Buoi2_Message.Server.resources
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\obj\Debug\Buoi2_Message.csproj.GenerateResource.Cache
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\obj\Debug\Buoi2_Message.exe
+D:\Lap Trinh\Buoi2_Message\Buoi2_Message\obj\Debug\Buoi2_Message.pdb
